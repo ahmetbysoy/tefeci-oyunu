@@ -1,0 +1,6 @@
+{
+  "name": "Tefeci: Kripto Mıntıkası",
+  "description": "İstanbul arka sokak jargonuyla canlı Binance Futures verisi üzerinden çalışan, dopamin yüklü mobil tefeci ve scalper oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
